@@ -1,4 +1,0 @@
-.env.local
-.DS_Store
-yarn-error.log*
-dist/
