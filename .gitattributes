@@ -1,0 +1,9 @@
+*.woff binary
+*.ts linguist-detectable
+*.html linguist-vendored
+*.htm linguist-vendored
+*.md linguist-documentation
+vendor/* linguist-vendored
+
+build/* linguist-vendored
+*.gif binary
